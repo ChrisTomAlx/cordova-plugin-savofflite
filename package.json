@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NeutrinosPlatform/cordova-plugin-document-scanner"
+    "url": "https://github.com/ChrisTomAlx/cordova-plugin-savofflite.git"
   },
   "cordova": {
     "id": "cordova-plugin-savofflite",
