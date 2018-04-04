@@ -19,7 +19,7 @@
   <js-module src="www/pouchdb.min.js" name="pouchdb">
   </js-module>
 
-<!--   <dependency id="cordova-sqlite-storage" version="2.2.1" /> -->
+  <dependency id="cordova-sqlite-storage" version="2.2.1" />
 
   <platform name="android">
     <config-file target="res/xml/config.xml" parent="/*">
