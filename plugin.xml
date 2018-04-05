@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
         id="cordova-plugin-savofflite"
-        version="1.0.1">
+        version="1.0.2">
 
   <name>Savofflite</name>
 
-  <engines>
+<!--   <engines>
     <engine name="cordova-android" version=">=6.3.0" />
-  </engines>
+  </engines> -->
 
   <asset src="www/savofflite.js" target="js/savofflite.js"/>
   <asset src="www/pouchdb.min.js" target="js/pouchdb.min.js"/>
@@ -19,7 +19,7 @@
   <js-module src="www/pouchdb.min.js" name="pouchdb">
   </js-module>
 
-  <dependency id="cordova-sqlite-storage" version="2.2.1" />
+  <dependency id="com.phonegap.plugins.sqlite" version="0.7.0" />
 
   <platform name="android">
     <config-file target="res/xml/config.xml" parent="/*">
