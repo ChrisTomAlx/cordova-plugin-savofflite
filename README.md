@@ -49,7 +49,7 @@ savoff.createDbOfflite(db);
                     
 var obj = 'one';
 var _id= 'oneid';
-savoff.putOfflite(db, obj, _id);
+savoff.putOfflite(db, _id, obj);
 
 savoff.getOfflite(dbz, _id) 
 

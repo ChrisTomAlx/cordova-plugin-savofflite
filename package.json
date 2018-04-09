@@ -1,12 +1,12 @@
 {
-  "name": "cordova-plugin-savofflite",
+  "name": "cordova-plugin-savofflite-sqlite",
   "version": "1.0.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ChrisTomAlx/cordova-plugin-savofflite.git"
+    "url": "https://github.com/ChrisTomAlx/cordova-plugin-savofflite-sqlite.git"
   },
   "cordova": {
-    "id": "cordova-plugin-savofflite",
+    "id": "cordova-plugin-savofflite-sqlite",
     "platforms": [
       "android",
       "ios"
