@@ -1,4 +1,4 @@
-var PouchDB=cordova.require("cordova-plugin-savofflite-sqlite.pouchdb")
+var PouchDB=cordova.require("cordova-plugin-savofflite.pouchdb")
 
 
 module.exports = {
